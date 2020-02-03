@@ -1,6 +1,6 @@
 # Soft_Labeled_Self_Learning
 
-The Zipfile Soft_Labeled_Self_Learning.zip contains two folders: Nearest Mean, Least Squares
+This zipfile Soft_Labeled_Self_Learning.zip contains two folders: Nearest Mean, Least Squares
 
 In those folder you find the matlab codes NearestMeanSS.mat and LeastSquaresSS.mat
 as well as the Datasets on that we tested the Method on. In each Dataset we saved all settings which we used in the test phase, as well as the expected results.
